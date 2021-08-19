@@ -132,6 +132,20 @@
 
                         />
 
+
+                    <Button
+                        android:id="@+id/babout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="90dp"
+                        android:layout_marginRight="100dp"
+                        android:fontFamily="@font/amatica_sc_bold"
+                        android:text="Home"
+                        android:backgroundTint="@color/black"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="18sp" />
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
